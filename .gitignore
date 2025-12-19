@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Django
+db.sqlite3
+media/
+staticfiles/
+
+# React (prevent double build upload)
+node_modules/
+build/
+.env
+
+# Virtual environment
+venv/
+.env/
