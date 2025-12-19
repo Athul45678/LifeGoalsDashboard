@@ -90,8 +90,8 @@ LifeGoalsDashboard/
 ## ▶️ How To Run The Project
 
 ### **1️⃣ Install Backend Dependencies**
-cd backend
-pip install -r requirements.txt
+```cd backend```
+```pip install -r requirements.txt```
 ### **2️⃣ Run the Server**
 python manage.py runserver
 ### ✔ App will start at:
