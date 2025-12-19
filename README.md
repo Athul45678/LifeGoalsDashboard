@@ -90,10 +90,10 @@ LifeGoalsDashboard/
 ## ▶️ How To Run The Project
 
 ### **1️⃣ Install Backend Dependencies**
-```cd backend```
+```cd backend``` 
 ```pip install -r requirements.txt```
 ### **2️⃣ Run the Server**
-python manage.py runserver
+```python manage.py runserver```
 ### ✔ App will start at:
 http://127.0.0.1:8000/
 React frontend will load automatically from Django.
